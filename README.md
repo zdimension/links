@@ -206,6 +206,7 @@
 - [swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [TryHackMe](https://tryhackme.com/)
 - [unkn0wnh4ckr/htk-lite](https://github.com/unkn0wnh4ckr/htk-lite)
+- - [Stay happy](https://github.com/notwaldorf/tiny-care-terminal)
 
 ## Maths
 
