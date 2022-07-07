@@ -212,7 +212,7 @@
 - [Mathway | Algebra](https://www.mathway.com/fr/Algebra)
 - [Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com/)
 
-- ### Regex
+### Regex
 
 - [Regex crossword](https://regexcrossword.com/challenges/tutorial/puzzles/5)
 - [Regex tester](https://regex101.com/)
