@@ -122,6 +122,7 @@
 - [Rclone](https://rclone.org/)
 - [Running a program - Instructions](https://www.bbc.co.uk/bitesize/guides/z2342hv/revision/1)
 - [Software optimization resources. C++ and assembly. Windows, Linux, BSD, Mac OS X](https://agner.org/optimize/)
+- [Stay happy](https://github.com/notwaldorf/tiny-care-terminal)
 - [Underactuated Robotics](http://underactuated.mit.edu/)
 - [Windows 10 Ameliorated](https://ameliorated.info/#)
 - [ZeroMQ | C++](https://zeromq.org/languages/cplusplus/)
@@ -206,7 +207,6 @@
 - [swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [TryHackMe](https://tryhackme.com/)
 - [unkn0wnh4ckr/htk-lite](https://github.com/unkn0wnh4ckr/htk-lite)
-- [Stay happy](https://github.com/notwaldorf/tiny-care-terminal)
 
 ## Maths
 
