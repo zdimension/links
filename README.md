@@ -126,6 +126,7 @@
 - [Underactuated Robotics](http://underactuated.mit.edu/)
 - [Windows 10 Ameliorated](https://ameliorated.info/#)
 - [ZeroMQ | C++](https://zeromq.org/languages/cplusplus/)
+- [Counterexamples in Type Systems](https://counterexamples.org/title.html)
 
 ## Chairs
 
