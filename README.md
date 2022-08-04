@@ -54,6 +54,7 @@
 - [Those HTML attributes you never use](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/)
 - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Why do interviewers ask linked list questions?](https://www.hillelwayne.com/post/linked-lists/) 
+
 Conclusion : So, to summarize the theory: in the early 80’s, C programmers were in high demand. Interviewers used questions that specifically tested your experience with C, which meant problems involving lots of pointer manipulation. This ingrained LL questions as a cultural institution in many places, especially places doing lots of low-level work, like Microsoft and Google. From there, it was exported to the wider software world, and lacking the original context, people assumed it was about “testing CS fundamentals” or “quick thinking”.
 - [The Old Net](http://theoldnet.com/)
 - [The /bin/true Command and Copyright](http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html)
