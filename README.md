@@ -231,3 +231,4 @@
 - [Writing an OS in Rust](https://os.phil-opp.com/)
 - [Writing Python inside your Rust code](https://blog.m-ou.se/writing-python-inside-rust-1/)
 - [Writing Rust the Elixir way - 18 months later](https://lunatic.solutions/blog/writing-rust-the-elixir-way-1.5-years-later/)
+- Zero-copy deserialization : [Part 1](https://manishearth.github.io/blog/2022/08/03/zero-copy-1-not-a-yoking-matter/), [Part 2](https://manishearth.github.io/blog/2022/08/03/zero-copy-2-zero-copy-all-the-things/), [Part 3](https://manishearth.github.io/blog/2022/08/03/zero-copy-3-so-zero-its-dot-dot-dot-negative/)
