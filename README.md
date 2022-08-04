@@ -176,7 +176,7 @@ Conclusive theory: in the early 80’s, C programmers were in high demand. Inter
 ## Meta
 
 - [Gaetan • DevOps - www.gaetandev.fr/](https://www.gaetandev.fr/)
-- [Trouvez un freelance disponible - www.codeur.com/](https://www.codeur.com/)https://manishearth.github.io/blog/2022/08/03/zero-copy-3-so-zero-its-dot-dot-dot-negative/
+- [Trouvez un freelance disponible - www.codeur.com/](https://www.codeur.com/)
 - [L'art de poser des questions efficaces](http://www.theworldcafe.com/wp-content/uploads/2015/07/Art-of-Powerful-questions-FRA.pdf)
 - [Rejection Therapy](https://www.rejectiontherapy.com/blog/2021/1/7/my-new-years-resolution)
 - [Brilliant | Learn to think](https://brilliant.org/)
