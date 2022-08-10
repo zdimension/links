@@ -20,6 +20,7 @@
 - [cascmd](https://www-fourier.ujf-grenoble.fr/~parisse/giac/doc/en/cascmd_en/node1.html)
 - [cheat.sh/:firstpage](https://cheat.sh/)
 - [Clean code](https://refactoring.guru/refactoring/what-is-refactoring)
+- [Clever Hack Finds Mystery CPU Instructions](https://www.eejournal.com/article/clever-hack-finds-mystery-cpu-instructions/)
 - [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/gp/product/0735619670)
 - [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/dp/0735611319)
 - [Coding Horror posts that every programmer should read, at least twice.](https://gist.github.com/tssm/7789984)
@@ -159,6 +160,10 @@ Conclusive theory: in the early 80’s, C programmers were in high demand. Inter
 - [The C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/)
 - [The C++ Bestiary 🎃 - videocortex.io/](http://videocortex.io/2017/Bestiary)
 - [The Nature of Code](https://natureofcode.com/book/chapter-1-vectors/)
+
+## Courses
+
+- [Jarret Billingsley](https://jarrettbillingsley.github.io/teaching/)
 
 ## Crypto
 
