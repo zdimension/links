@@ -62,6 +62,7 @@
 - [Let's build an LC-3 Virtual Machine](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
 - [libFuzzer tutorial](https://github.com/google/fuzzing/blob/master/tutorial/libFuzzerTutorial.md)
 - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+- [Linguistic antipatterns](http://www.linguistic-antipatterns.com/)
 - [Linux in a Pixel Shader - A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
 - [Low-Level Academy](https://lowlvl.org/)
 - [Make A Language · arzg’s website](https://arzg.github.io/lang/)
