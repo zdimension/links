@@ -223,6 +223,7 @@ Conclusive theory: in the early 80’s, C programmers were in high demand. Inter
 ## Rust
 
 - [AbdesamedBendjeddou/Rusty-CS: A CSCurriculum with Rust flavor!](https://github.com/AbdesamedBendjeddou/Rusty-CS#jobs=)
+- [How Swift Achieved Dynamic Linking Where Rust Couldn't](https://gankra.github.io/blah/swift-abi/)
 - [How to Read Rust Functions](https://www.possiblerust.com/guide/how-to-read-rust-functions-part-1)
 - [My first cup of Rust](https://blog.frankel.ch/start-rust/1/)
 - [Plugins in Rust via WASM](https://web.archive.org/web/20210824164958/https://devblog.arcana.rs/how-to-make-plugins-system-with-rust-and-webassembly)
