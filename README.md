@@ -4,6 +4,7 @@
 - [0x7FDE623822FC16E6 : a magic constant for double float reciprocal](http://pvk.ca/Blog/LowLevel/software-reciprocal.html)
 - [100 MHz 6502](http://www.e-basteln.de/computing/65f02/65f02/)
 - [56888 - memcpy implementation optimized as a call to memcpy](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=56888#c19)
+- [8088 MPH: We Break All Your Emulators](https://trixter.oldskool.org/2015/04/07/8088-mph-we-break-all-your-emulators/)
 - [a brief history of one line fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
 - [A bug in Titanfall](https://medium.com/@p0358/how-to-fix-titanfall-3e5f9c0132c6)
 - [A Conspiracy To Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
