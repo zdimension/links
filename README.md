@@ -94,6 +94,7 @@
 - [radamsa - a general-purpose fuzzer](https://gitlab.com/akihe/radamsa)
 - [Rclone](https://rclone.org/)
 - [Rejected](http://www.eod.com/blog/2018/09/rejected/)
+- [Robust Soldier Crab Ball Gate](https://arxiv.org/abs/1204.1749)
 - [Round Rects Are Everywhere!](https://www.folklore.org/StoryView.py?story=Round_Rects_Are_Everywhere.txt)
 - [Running a program - Instructions](https://www.bbc.co.uk/bitesize/guides/z2342hv/revision/1)
 - [sectorlisp](https://github.com/jart/sectorlisp)
