@@ -2,6 +2,7 @@
 
 - [(t,i,x,y)](https://tixy.land/)
 - [0x7FDE623822FC16E6 : a magic constant for double float reciprocal](http://pvk.ca/Blog/LowLevel/software-reciprocal.html)
+- [0.30000000000000004](https://0.30000000000000004.com/)
 - [100 MHz 6502](http://www.e-basteln.de/computing/65f02/65f02/)
 - [56888 - memcpy implementation optimized as a call to memcpy](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=56888#c19)
 - [8088 MPH: We Break All Your Emulators](https://trixter.oldskool.org/2015/04/07/8088-mph-we-break-all-your-emulators/)
