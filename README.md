@@ -58,6 +58,7 @@
 - [History of the browser user-agent string](https://webaim.org/blog/user-agent-string-history/)
 - [How Internet Explorer Shaped the Internet](https://gizmodo.com/how-internet-explorer-shaped-the-internet-5937354)
 - [How random can you be?](https://www.expunctis.com/2019/03/07/Not-so-random.html)
+- [J'ai testé pour vous : se faire usurper son identité](https://linuxfr.org/users/malizor/journaux/j-ai-teste-pour-vous-se-faire-usurper-son-identite)
 - [Intel® ISPC User's Guide](https://ispc.github.io/ispc.html#getting-started-with-ispc)
 - [Introduction à l'algorithmique](http://thomashenrywarner.free.fr/eBooks/Programmation_General/Introduction%20%C3%A0%20l%27algorithmique%20Cours%20et%20exercices%20corrig%C3%A9s/Introduction%20%C3%A0%20l%27algorithmique%20Cours%20et%20exercices%20corrig%C3%A9s.pdf)
 - [IPFS](https://ecosystem.ipfs.io/)
