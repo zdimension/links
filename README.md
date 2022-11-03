@@ -92,6 +92,7 @@
 - [PHP: The Right Way](https://phptherightway.com/)
 - [Pikuma: Fundamentals of computer science and mathematics](https://pikuma.com/)
 - [PipeRift/rift: Speeding up software development](https://github.com/PipeRift/rift)
+- [Pixian.ai](https://pixian.ai/)
 - [POKEGB: a gameboy emulator that only plays Pokémon blue](https://binji.github.io/posts/pokegb/)
 - [Pokémon in a font](https://www.coderelay.io/fontemon.html#player)
 - [Pokémon on your GitHub profile](https://github.com/nathanfarlow)
