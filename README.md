@@ -184,6 +184,8 @@
 - [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 - [Those HTML attributes you never use](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/)
 - [Today, the Trident Era Ends](https://schepp.dev/posts/today-the-trident-era-ends/)
+- [U+237C ⍼ RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW](https://ionathan.ch/2022/04/09/angzarr.html)
+- [update: U+237C ⍼ &angzarr;](https://ionathan.ch/2023/06/06/angzarr.html)
 - [Underactuated Robotics](http://underactuated.mit.edu/)
 - [UNIX History Tree](https://www.levenez.com/unix/unix.pdf)
 - [Unix Recovery Legend](https://www.ee.ryerson.ca/~elf/hack/recovery.html)
