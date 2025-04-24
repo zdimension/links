@@ -25,7 +25,7 @@
 - [Booting from a vinyl record](http://boginjr.com/it/sw/dev/vinyl-boot/)
 - [Both true and false: a Zen moment with C](https://markshroyer.com/2012/06/c-both-true-and-false/)
 - [Branch prediction](https://danluu.com/branch-prediction/)
-- [Brave is shit](https://ebin.city/~werwolf/posts/brave-is-shit/)
+- [Brave is shit](https://codeberg.org/werwolf/blog/src/branch/main/brave-is-shit.md)
 - [Bug #1463112: Cat sitting on keyboard crashes lightdm](https://bugs.launchpad.net/ubuntu/+source/unity/+bug/1463112)
 - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 - [C Isn&#39;t A Programming Language Anymore - Faultlore](https://faultlore.com/blah/c-isnt-a-language/)
