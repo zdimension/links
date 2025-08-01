@@ -30,7 +30,7 @@
 - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
 - [C Isn&#39;t A Programming Language Anymore - Faultlore](https://faultlore.com/blah/c-isnt-a-language/)
 - [Can your static type system handle linear algebra?](https://yosefk.com/blog/can-your-static-type-system-handle-linear-algebra.html)
-- [cascmd](https://www-fourier.ujf-grenoble.fr/~parisse/giac/doc/en/cascmd_en/node1.html)
+- [cascmd](https://web.archive.org/web/20250125030007/https://www-fourier.ujf-grenoble.fr/~parisse/giac/doc/en/cascmd_en/node1.html)
 - [ChatGPT helped me design a brand new programming language · Jude Hunter](https://judehunter.dev/blog/chatgpt-helped-me-design-a-brand-new-programming-language)
 - [cheat.sh/:firstpage](https://cheat.sh/)
 - [Choosing the right Design Pattern - Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/227868/choosing-the-right-design-pattern/227880#227880)
