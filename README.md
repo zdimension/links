@@ -39,7 +39,7 @@
 - [Clever Hack Finds Mystery CPU Instructions](https://www.eejournal.com/article/clever-hack-finds-mystery-cpu-instructions/)
 - [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/gp/product/0735619670)
 - [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/dp/0735611319)
-- [Coding Horror posts that every programmer should read, at least twice.](https://gist.github.com/tssm/7789984)
+- [Coding Horror posts that every programmer should read, at least twice.](https://gist.github.com/snacksbro/56271a17a245e6ab2407265f8cee3f26)
 - [Commit message "Convert template to US-ASCII to fix error](https://github.com/alphagov/govuk-puppet/commit/63b36f93bf75a848e2125008aa1e880c5861cf46)
 - [Commit message "stream_libarchive: workaround various types of locale braindeath"](https://github.com/mpv-player/mpv/commit/1e70e82baa9193f6f027338b0fab0f5078971fbe)
 - [Converting Integers to Floats Using Hyperfocus](https://blog.m-ou.se/floats/)
